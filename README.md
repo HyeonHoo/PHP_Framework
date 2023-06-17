@@ -1,6 +1,6 @@
 # Lanch Iamge
 <h3> 개인전시회 </h3>
-![PHP_전시회](https://github.com/HyeonHoo/PHP_Framework/assets/69030306/7c9b6278-b347-427e-a648-83640755c085)
+<img src="https://github.com/HyeonHoo/PHP_Framework/assets/69030306/7c9b6278-b347-427e-a648-83640755c085" width="700" height="370">
 
 <h3> 음원관리 </h3>
 
