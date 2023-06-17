@@ -1,12 +1,14 @@
 # Lanch Iamge
-<h2> 개인전시회 </h2>
-![PHP_전시회](https://github.com/HyeonHoo/C_RacingGame/assets/69030306/9f80a502-af17-4093-a305-5ebb4e973ac7)
-
-<h2> 음원관리 </h2>
-![PHP_음원관리](https://github.com/HyeonHoo/C_RacingGame/assets/69030306/199949d8-3e6f-44bd-8dc2-443b07cd0e39)
-
-<h2> AJAX </h2>
-![Framework Ajax](https://github.com/HyeonHoo/C_RacingGame/assets/69030306/fe1f37d4-1004-4a2e-9d64-d5d5ecaa7327)
+<h3> 개인전시회 </h3>
+![PHP_전시회](https://github.com/HyeonHoo/PHP_Framework/assets/69030306/f9c950bd-b62b-4445-855d-341faabbee7b)
+<p>
+<h3> 음원관리 </h3>
+![PHP_음원관리](https://github.com/HyeonHoo/PHP_Framework/assets/69030306/b405c25f-65fe-4b93-baa5-96fa340e9d35)
+</p>
+<p>
+<h3> AJAX </h3>
+![Framework Ajax](https://github.com/HyeonHoo/PHP_Framework/assets/69030306/1346ccd6-e283-4fe2-a632-991347e2806b)
+</p>
 
 # 목적
 PHP Codeigniter Framework 와 Bootstrap을 이용한 개인전시회 / 음원 관리 및 감상 홈페이지
