@@ -1,7 +1,4 @@
-# 목적
-PHP Codeigniter Framework 와 Bootstrap을 이용한 개인전시회 / 음원 관리 및 감상 홈페이지
-
-<p> <h1> Lanch Iamge </h1> </p>
+<p> <h1> Launch Iamge </h1> </p>
 
 <h2> 개인전시회 </h2>
 <img src="https://github.com/HyeonHoo/PHP_Framework/assets/69030306/7c9b6278-b347-427e-a648-83640755c085" width="1024" height="500">
@@ -24,6 +21,8 @@ PHP Codeigniter Framework 와 Bootstrap을 이용한 개인전시회 / 음원 �
 <h2> AJAX </h2>
 <img src="https://github.com/HyeonHoo/PHP_Framework/assets/69030306/c075271c-022a-44ec-891f-871b44b37c2b" width="1024" height="500">
 
+# 목적
+PHP Codeigniter Framework 와 Bootstrap을 이용한 개인전시회 / 음원 관리 및 감상 홈페이지
 
 
 
