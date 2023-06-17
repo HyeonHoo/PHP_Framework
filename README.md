@@ -5,7 +5,7 @@ PHP Codeigniter Framework 와 Bootstrap을 이용한 개인전시회 / 음원 �
 <h2> 개인전시회 </h2>
 <img src="https://github.com/HyeonHoo/PHP_Framework/assets/69030306/7c9b6278-b347-427e-a648-83640755c085" width="1024" height="740">
 
-<h3> 개인 전시회 홈페이지 설명 </h3> 
+# 개인 전시회 홈페이지 설명
 - 개인화가관리,작품관리,표현기법관리,로그인기능,admin기능 구현
 - admin 기능을 통해 admin에서 추가 및 변경하면 main 페이지에도 변경기능 구현
 - 기본적인 PHP Codeigniter Framework 언어 및 기능과 Bootstrap 기능을 이용해 홈페이지 구현
